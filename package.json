@@ -1,0 +1,19 @@
+{
+  "name": "Tg-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Tg": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tg-admin/TG-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tg-admin/TG-cli/issues"
+  },
+  "homepage": "https://github.com/tg-admin/TG-cli#readme"
+}
